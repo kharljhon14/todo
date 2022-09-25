@@ -1,0 +1,15 @@
+.form {
+   display: flex;
+   flex-direction: column;
+   flex: 30%;
+   background-color: aquamarine;
+   padding: 2rem;
+}
+
+.form input{
+    margin-bottom: 1rem;
+}
+
+.form textarea{
+    resize: none;
+}
